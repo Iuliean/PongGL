@@ -1,0 +1,15 @@
+#pragma once
+
+#include "../src/Log.h"
+#include "../src/VertexBuffer.h"
+#include "../src/IndexBuffer.h"
+#include "../src/VertexArray.h"
+#include "../src/VertexLayout.h"
+#include "../src/Shader.h"
+#include "../src/Renderer.h"
+#include "../src/Object.h"
+#include "../src/Rectangle.h"
+#include "../src/Circle.h"
+#include "../src/Window.h"
+#include "../src/Keyboard.h"
+#include "../src/Clock.h"
